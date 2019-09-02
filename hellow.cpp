@@ -1,7 +1,9 @@
 #include <iostream.h>
 
+using namespace std;
+
 int main(int argc, char *argv[])
 {
-  stf::cout << "Hello World!!" << endl;
+  cout << "Hello World!!" << endl;
   return 0;
 }
